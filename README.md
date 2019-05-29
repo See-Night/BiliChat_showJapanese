@@ -5,10 +5,10 @@
 **所以在OBS中对于youtube livechat的自定义CSS代码可以直接copy**  
 自豪地使用好文明Angular 7  
 感谢logo提供者:[@Afanyiyu](https://github.com/Afanyiyu)
-														————3Shain
+<br />————3Shain
 
 <span><strong>改弹幕姬是基于3Shian佬的弹幕姬Bilichat魔改而来，新增了日语显示功能，可供各主播B限时使用</strong></span>
-<span>具体使用方式请参考<a href="https://github.com/3Shain/BiliChat">3Shain</a>佬的原版程序</span>
+<span>具体使用方式请参考[@3Shain](https://github.com/3Shain)佬的原版程序</span>
 
 ## 🍥URL参数  
 在url后面添加query参数可以自定义效果  
