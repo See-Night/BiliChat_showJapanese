@@ -7,7 +7,7 @@
 感谢logo提供者:[@Afanyiyu](https://github.com/Afanyiyu)
 <br />————3Shain
 
-<span><strong>改弹幕姬是基于3Shian佬的弹幕姬Bilichat魔改而来，新增了日语显示功能，可供各主播B限时使用</strong></span>
+<span><strong>该弹幕姬是基于3Shian佬的弹幕姬Bilichat魔改而来，新增了日语显示功能，可供各主播B限时使用</strong></span>
 <span>具体使用方式请参考[@3Shain](https://github.com/3Shain)佬的原版程序</span>
 
 ## 🍥URL参数  
